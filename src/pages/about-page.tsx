@@ -33,7 +33,7 @@ export const AboutPage = () => {
 
   const values = [
     {
-      title: 'Dignity',
+      title: 'Dignityy',
       description: 'Every voice matters. We treat all community members with respect and recognize the expertise that comes from lived experience.',
       icon: Heart
     },
